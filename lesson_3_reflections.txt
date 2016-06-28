@@ -19,4 +19,9 @@ Clones to clone e.g. a forked project on to my local machine.
 
 ***
 
+What is the benefit of having a copy of the last known
+state of the remote stored locally?
+
+To be in sync with the work of others.
+
 

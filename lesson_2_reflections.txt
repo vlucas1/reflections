@@ -1,5 +1,16 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-All the files in .git - necessary for the git reprository - are created.
+All the files in .git - necessary for the git repository - are created.
 
 ***
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Only stage the stuff you want to commit per logical commit
+
+***
+
+What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+
+Branches can help to go sideways without making compromises in the main (master) branch
