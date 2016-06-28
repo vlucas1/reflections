@@ -9,4 +9,14 @@ Git automatically stay up-to-date with your remote repository?
 
 To have full control.
 
+***
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Branches to work in my project. Forks to fork one's project on GitHub.
+Clones to clone e.g. a forked project on to my local machine.
+
+***
+
 
